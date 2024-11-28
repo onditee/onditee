@@ -64,6 +64,11 @@
 </p>
 <br/>
 
+<div align="center">
+  <h2> 🐍 My Contributions 🐍 </h2>
+<br>
+ <img alt="snake eating my contributions" src="https://skillicons.dev/icons?i=anaconda,idea,sublime,vscode,eclipse,androidstudio,blender" />
+
 <!--**onditee/onditee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
