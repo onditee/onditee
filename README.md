@@ -72,6 +72,13 @@
   </picture>
 </div>
 
+<h2 align ="center"> ✨ GitHub Statistics ✨ </h2>
+<br>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=onditee&theme=ocean-dark" alt="GitHub Streak" />
+  </a>
+</div>
 
 <!--**onditee/onditee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
