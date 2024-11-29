@@ -62,11 +62,9 @@
     <img src="https://img.shields.io/badge/Polygon-6E48FF?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon" />
   </a>
 </p>
-<br/>
 
 <div align="center">
-  <h2> 🐍 My Contributions 🐍 </h2>
-  <br>
+  <h2>  My Contributions </h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onditee/onditee/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onditee/onditee/output/github-snake.svg" />
