@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align ="left"> Software developer based in L.A. Deeply passionate about the potential of DeFi and Web3 technologies.</h3>
-
+<!--**onditee/onditee-->
 <br/>
 
 <div style="text-align: left;">
